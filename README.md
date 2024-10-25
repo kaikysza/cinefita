@@ -1,4 +1,4 @@
-# Cinefita
+# Cinefita 🎥
 Cinefita é um sistema simples de gerenciamento de locadora de filmes, desenvolvido em PHP com integração ao banco de dados MySQL via MySQLi. Este sistema permite o cadastro, visualização, edição e remoção de filmes no catálogo da locadora, proporcionando uma maneira fácil de gerenciar os dados relacionados aos filmes.
 
 ## Funcionalidades
