@@ -5,7 +5,7 @@ Cinefita é um sistema simples de gerenciamento de locadora de filmes, desenvolv
 <table>
   <td>CRUD de Filmes: O sistema permite que o administrador da locadora adicione, edite, veja e remova filmes do banco de dados.</td>
   <td>Autenticação: O sistema inclui uma página de login que garante que apenas usuários autorizados possam acessar a área de gerenciamento.</td>
-  <td>BD MySQL: Todas as informações dos filmes são armazenadas em um bd MySQL, gerenciado através de consultas usando MySQLi.</td>
+  <td>Banco de Dados: As informações dos filmes são armazenadas e gerenciadas em um banco de dados MySQL usando MySQLi.</td>
   <td>Painel de Controle: Após o login, o administrador pode visualizar todos os filmes disponíveis na locadora e realizar operações de CRUD.</td>
 </table>
 
